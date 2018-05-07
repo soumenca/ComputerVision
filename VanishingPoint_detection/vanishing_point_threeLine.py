@@ -1,3 +1,6 @@
+# Soumen Ghosh
+# IIIT Sri City, Chittoor, AP, India
+# https://sites.google.com/site/soumenca/
 
 import cv2
 import math
@@ -31,7 +34,7 @@ def line_intersection(line1, line2):
 
 
 def vPoint(img):
-	n1 = input('How many line want to select: ')
+	n1 = 6
 	n = 2*n1
 	lines = []
 	plt.imshow(img)
